@@ -1,12 +1,8 @@
 import calendar
 
-yy = 2012
+yy = 2012 # year
 
-# year
-
-mm = 12
-
-# month
+mm = 12 # month
 
 # display the calendar
 
